@@ -4,7 +4,7 @@ I hold a PhD in pure mathematics (logic and algebra) and I am moving into data a
 
 ## Skills
 
-**SQL** (PostgreSQL, SQLite) · **Python** (pandas) · **Power BI** (DAX, data modeling) · **Excel**
+**SQL** (PostgreSQL, SQLite) · **Python** (pandas, NumPy) · **Power BI** (DAX, data modeling) · **Excel**
 
 ## Projects
 
